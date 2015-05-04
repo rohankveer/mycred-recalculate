@@ -4,8 +4,8 @@
  * Plugin URI: http://www.rtcamp.com
  * Description: This plugin recalculates the points for EXISTING / OLD users from Plugin's Page on backend.
  * Version: 1.0
- * Author: rtCamp
- * Author URI: http://www.rtcamp.com
+ * Author: rohankveer
+ * Author URI: https://rohanveer1989.wordpress.com/
  * License: GPLv2 or later
  * License URI: http://www.gnu.org/licenses/gpl-2.0.html
  * bbPress Compatible: no

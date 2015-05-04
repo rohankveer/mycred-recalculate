@@ -1,5 +1,5 @@
 === myCRED points recalculate ===
-Contributors: pradeep.sonawane,rohanveer,rtcamp
+Contributors: rohanveer,pradeep.sonawane
 Requires at least: 3.0.1
 Tested up to: 4.0
 License: GPLv2 or later
